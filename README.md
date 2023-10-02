@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ludimeus!
+- 👀 I’m interested in collaborating on cool projects to learn new things!
+- 🌱 I’m currently learning Python, SQL and JSON
+- 💞️ I’m looking to collaborate on web scraping and data analytics
+- 📫 How to reach me -
